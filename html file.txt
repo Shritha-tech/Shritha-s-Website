@@ -1,0 +1,27 @@
+<html>
+
+<head>
+    <title> My Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Lobster+Two&family=Shippori+Mincho+B1&family=Sofia&family=Tinos&display=swap" rel="stylesheet">
+</head>
+
+<body>
+<ul>
+    <li class="links">About</li>
+    <li class="links">My Favorite Books</li>
+    <li class="links">Work</li>
+    <li class="links">Inspiration</li>
+    <li class="links">Contact</li>
+    </ul>
+    <section class="section-edit" id="About">
+        <img class="shritha" src="IMG_2269%20(1).jpg" width="300px" height="350px">
+        <div class="I">
+            <label id="iam">I am</label>
+            <br>
+            <label class="name">Shritha Harish</label>
+            <br>
+            <label id="RH">My hobby is reading </label>
+        </div>
+    </section>
